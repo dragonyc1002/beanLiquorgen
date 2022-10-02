@@ -1,0 +1,28 @@
+{
+  "files": {
+    "static/js/0.058784f2.chunk.js": "/beanLiquorgen/static/js/0.058784f2.chunk.js",
+    "static/js/0.058784f2.chunk.js.map": "/beanLiquorgen/static/js/0.058784f2.chunk.js.map",
+    "main.css": "/beanLiquorgen/static/css/main.474e24b8.chunk.css",
+    "main.js": "/beanLiquorgen/static/js/main.e4aadbee.chunk.js",
+    "main.js.map": "/beanLiquorgen/static/js/main.e4aadbee.chunk.js.map",
+    "polyfills-dom.js": "/beanLiquorgen/static/js/polyfills-dom.ae0c93ee.chunk.js",
+    "polyfills-dom.js.map": "/beanLiquorgen/static/js/polyfills-dom.ae0c93ee.chunk.js.map",
+    "runtime-main.js": "/beanLiquorgen/static/js/runtime-main.c6eb0b9c.js",
+    "runtime-main.js.map": "/beanLiquorgen/static/js/runtime-main.c6eb0b9c.js.map",
+    "static/js/4.83022c1a.chunk.js": "/beanLiquorgen/static/js/4.83022c1a.chunk.js",
+    "static/js/4.83022c1a.chunk.js.map": "/beanLiquorgen/static/js/4.83022c1a.chunk.js.map",
+    "static/js/5.91637ffb.chunk.js": "/beanLiquorgen/static/js/5.91637ffb.chunk.js",
+    "static/js/5.91637ffb.chunk.js.map": "/beanLiquorgen/static/js/5.91637ffb.chunk.js.map",
+    "index.html": "/beanLiquorgen/index.html",
+    "static/css/main.474e24b8.chunk.css.map": "/beanLiquorgen/static/css/main.474e24b8.chunk.css.map",
+    "static/js/4.83022c1a.chunk.js.LICENSE.txt": "/beanLiquorgen/static/js/4.83022c1a.chunk.js.LICENSE.txt",
+    "static/js/polyfills-dom.ae0c93ee.chunk.js.LICENSE.txt": "/beanLiquorgen/static/js/polyfills-dom.ae0c93ee.chunk.js.LICENSE.txt",
+    "static/media/avatar-main.6fec103a.png": "/beanLiquorgen/static/media/avatar-main.6fec103a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6eb0b9c.js",
+    "static/js/4.83022c1a.chunk.js",
+    "static/css/main.474e24b8.chunk.css",
+    "static/js/main.e4aadbee.chunk.js"
+  ]
+}
